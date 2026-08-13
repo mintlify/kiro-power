@@ -2,6 +2,6 @@
   "schemaVersion": 1,
   "sourceRepository": "mintlify/docs",
   "sourcePath": "agent-context",
-  "sourceCommit": "638248c1ba2a938dcf2f0aa609eefff7a4e8d1e5",
+  "sourceCommit": "49cd3dc01890c960f122191390274ddcf6afac61",
   "target": "kiro"
 }
